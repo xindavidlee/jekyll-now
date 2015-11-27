@@ -1,3 +1,7 @@
+---
+layout: post
+title: English Writing!
+---
 # 第一册
 ## 作文1
 > Is Failure a Bad Thing?
